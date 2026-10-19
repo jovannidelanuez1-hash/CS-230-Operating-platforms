@@ -1,4 +1,4 @@
-CS 230 Module Eight Journal: The Gaming Room
+CS 230 Module Eight Journal: The Gaming Room Reflection
 
 1. Client and Software Requirements
 
